@@ -2,7 +2,9 @@
 Install the all necessary libraries. You need to download the zephyr model (TheBloke/zephyr-7B-alpha-GGUF) from Hugging Face.
 When you run the code, you will be asked to give path of the pdf file. Please give the correct path.
 Its better to give 5-6 page pdf as input at a time. Because it will take lot of time to generate QA pairs depends upon the system RAM.(Select 5-6 pages from the whole pdf and save it as another pdf and pass this as input).  If you give more pages as input, it may lead to crashing the code.
+
 Link to the book: https://oercommons.org/courses/python-for-everybody-exploring-data-in-python-3
+
 Reference: (https://github.com/InsightEdge01/Question-AnswerPairGeneratorApp/blob/master/app.py)
 
 # Push to Hub
@@ -19,4 +21,5 @@ Reference : (https://github.com/amitsangani/Llama/blob/main/Llama_2_Fine_Tune_Wi
 
 # RAG
 To run this code, you need to install (llama-2-7b-chat.Q4_K_M.gguf) from hugging face.
+
 Reference: (https://github.com/AIAnytime/Llama2-Medical-Chatbot)
