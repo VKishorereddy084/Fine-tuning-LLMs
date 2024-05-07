@@ -18,3 +18,4 @@ Reference : (https://github.com/amitsangani/Llama/blob/main/Llama_2_Fine_Tune_Wi
 
 # RAG
 To run this code, you need to install (llama-2-7b-chat.Q4_K_M.gguf) from hugging face.
+Reference: (https://github.com/AIAnytime/Llama2-Medical-Chatbot)
